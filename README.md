@@ -16,4 +16,11 @@ El proyecto sigue una estructura básica de archivos y carpetas:
 + middlewares/: Carpeta que contiene los middlewares utilizados en la aplicación, incluyendo los de validación de esquemas.
 + data/: Carpeta que contiene el archivo JSON donde se almacenan los datos de las carreras y materias.
 ## Ejemplo del JSON de Datos:
-El archivo data.json en la carpeta data/ contiene un ejemplo de cómo están estructurados los datos de las carreras y materias:
+El archivo data.json en la carpeta data contiene un ejemplo de cómo están estructurados los datos de las carreras y materias:
+
+## Instalación y Ejecución de la API:
+Para instalar y ejecutar la API, sigue estos pasos:
+
++ Clona este repositorio en tu máquina local.
++ Abre una terminal y navega hasta el directorio del proyecto.
++ Ejecuta el siguiente comando para instalar las dependencias:
