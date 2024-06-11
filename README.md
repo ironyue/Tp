@@ -10,10 +10,10 @@ Este proyecto consiste en una API REST desarrollada en Node.js utilizando el fra
 ## Estructura del Proyecto:
 El proyecto sigue una estructura básica de archivos y carpetas:
 
-index.js: Archivo principal que inicia el servidor Express y configura las rutas y middlewares.
-routes/: Carpeta que contiene los archivos de definición de rutas para cada recurso (carreras y materias).
-controllers/: Carpeta que contiene los controladores para cada recurso, encargados de manejar las solicitudes HTTP.
-middlewares/: Carpeta que contiene los middlewares utilizados en la aplicación, incluyendo los de validación de esquemas.
-data/: Carpeta que contiene el archivo JSON donde se almacenan los datos de las carreras y materias.
++ index.js: Archivo principal que inicia el servidor Express y configura las rutas y middlewares.
++ routes/: Carpeta que contiene los archivos de definición de rutas para cada recurso (carreras y materias).
++ controllers/: Carpeta que contiene los controladores para cada recurso, encargados de manejar las solicitudes HTTP.
++ middlewares/: Carpeta que contiene los middlewares utilizados en la aplicación, incluyendo los de validación de esquemas.
++ data/: Carpeta que contiene el archivo JSON donde se almacenan los datos de las carreras y materias.
 Ejemplo del JSON de Datos:
 El archivo data.json en la carpeta data/ contiene un ejemplo de cómo están estructurados los datos de las carreras y materias:
