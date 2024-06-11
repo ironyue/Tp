@@ -21,6 +21,7 @@ El archivo data.json en la carpeta data contiene un ejemplo de cómo están estr
 ## Instalación y Ejecución de la API:
 Para instalar y ejecutar la API, sigue estos pasos:
 
-+ Clona este repositorio en tu máquina local.
-+ Abre una terminal y navega hasta el directorio del proyecto.
-+ Ejecuta el siguiente comando para instalar las dependencias:
+1. Clona este repositorio en tu máquina local.
+2. Abre una terminal y navega hasta el directorio del proyecto.
+3. Ejecuta el siguiente comando para instalar las dependencias:
+4. `npm install`
