@@ -26,4 +26,4 @@ Para instalar y ejecutar la API, sigue estos pasos:
 3. Ejecuta el siguiente comando para instalar las dependencias:
 + `npm install`
 4. Después de que se completen las instalaciones, puedes ejecutar la API con el siguiente comando:
-  `npm run dev`
++ `npm run dev`
