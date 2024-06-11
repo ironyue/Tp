@@ -1,5 +1,5 @@
 # API REST - Proyecto Laboratorio Software
-Integrantes del Grupo:
+## Integrantes del Grupo:
 Juan Pérez
 María García
 Carlos López
