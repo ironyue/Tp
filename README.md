@@ -27,3 +27,5 @@ Para instalar y ejecutar la API, sigue estos pasos:
 + `npm install`
 4. Después de que se completen las instalaciones, puedes ejecutar la API con el siguiente comando:
 + `npm run dev`
+
++ Por defecto, la API se ejecutará en el puerto 3000. Si deseas cambiar el puerto, puedes establecer la variable de entorno `PORT` antes de ejecutar el comando `npm start`.
