@@ -1,4 +1,4 @@
-API REST - Proyecto Laboratorio Software
+# API REST - Proyecto Laboratorio Software
 Integrantes del Grupo:
 Juan Pérez
 María García
@@ -14,3 +14,5 @@ routes/: Carpeta que contiene los archivos de definición de rutas para cada rec
 controllers/: Carpeta que contiene los controladores para cada recurso, encargados de manejar las solicitudes HTTP.
 middlewares/: Carpeta que contiene los middlewares utilizados en la aplicación, incluyendo los de validación de esquemas.
 data/: Carpeta que contiene el archivo JSON donde se almacenan los datos de las carreras y materias.
+Ejemplo del JSON de Datos:
+El archivo data.json en la carpeta data/ contiene un ejemplo de cómo están estructurados los datos de las carreras y materias:
