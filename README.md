@@ -7,7 +7,7 @@
 ## Descripción del Proyecto:
 Este proyecto consiste en una API REST desarrollada en Node.js utilizando el framework Express. La API expone recursos relacionados con carreras y materias, permitiendo operaciones CRUD (Crear, Leer, Actualizar, Eliminar) sobre estos recursos. La estructura del proyecto sigue las convenciones de separación por recurso, con rutas, controladores y middlewares organizados de manera adecuada.
 
-Estructura del Proyecto:
+## Estructura del Proyecto:
 El proyecto sigue una estructura básica de archivos y carpetas:
 
 index.js: Archivo principal que inicia el servidor Express y configura las rutas y middlewares.
